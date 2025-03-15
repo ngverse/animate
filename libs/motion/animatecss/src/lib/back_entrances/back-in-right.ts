@@ -24,7 +24,7 @@ const name = `backInRight`;
 export const backInRight = createMotionFromAnimate<backInRightMotionOptions>(
   keyframes([
     style({
-      transform: 'translateX({{startTranslateX}}) scale(0.7)',
+      transform: 'translateX(2000px) scale(0.7)',
       opacity: 0.7,
       offset: 0,
     }),

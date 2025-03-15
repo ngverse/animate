@@ -114,3 +114,18 @@ export * from './lib/fading_entrances/fade-in-top-left';
 export * from './lib/fading_entrances/fade-in-top-right';
 export * from './lib/fading_entrances/fade-in-up';
 export * from './lib/fading_entrances/fade-in-up-big';
+
+/** Fading Exits */
+export * from './lib/fading_exits/fade-out';
+export * from './lib/fading_exits/fade-out-bottom-left';
+export * from './lib/fading_exits/fade-out-bottom-right';
+export * from './lib/fading_exits/fade-out-down';
+export * from './lib/fading_exits/fade-out-down-big';
+export * from './lib/fading_exits/fade-out-left';
+export * from './lib/fading_exits/fade-out-left-big';
+export * from './lib/fading_exits/fade-out-right';
+export * from './lib/fading_exits/fade-out-right-big';
+export * from './lib/fading_exits/fade-out-top-left';
+export * from './lib/fading_exits/fade-out-top-right';
+export * from './lib/fading_exits/fade-out-up';
+export * from './lib/fading_exits/fade-out-up-big';

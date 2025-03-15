@@ -24,7 +24,7 @@ const name = `backInDown`;
 export const backInDown = createMotionFromAnimate<backInDownMotionOptions>(
   keyframes([
     style({
-      transform: 'translateY({{startTranslateY}}) scale(0.7)',
+      transform: 'translateY(-1200px) scale(0.7)',
       opacity: 0.7,
       offset: 0,
     }),
